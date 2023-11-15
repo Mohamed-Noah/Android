@@ -1,3 +1,3 @@
 # Android
 
-## [Delete any android application](https://www.youtube.com/watch?v=sRaZd8R9JpY)
+## [Deploat android without root](https://www.youtube.com/watch?v=sRaZd8R9JpY)
